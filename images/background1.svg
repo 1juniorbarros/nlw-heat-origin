@@ -1,0 +1,23 @@
+<svg width="1440" height="1200" xmlns="http://www.w3.org/2000/svg" fill="none">
+ <defs>
+  <radialGradient gradientTransform="matrix(0,559,-559,0,561.6666870117188,-151.66652882099152)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" id="svg_2">
+   <stop stop-color="#D800B9"/>
+   <stop stop-opacity="0" stop-color="#121214" offset="1"/>
+  </radialGradient>
+  <radialGradient gradientTransform="matrix(0,559,-559,0,878.3328857421875,-148.3332005739212)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" id="svg_3">
+   <stop stop-color="#E50097"/>
+   <stop stop-opacity="0" stop-color="#121214" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g>
+   <circle transform="rotate(-180 561.667 -151.667)" fill="url(#svg_2)" r="559" cy="-151.6665" cx="561.66672"/>
+
+  </g>
+  <g>
+   <circle transform="rotate(-180 878.333 -148.333)" fill="url(#svg_3)" r="559" cy="-148.33317" cx="878.33329"/>
+
+  </g>
+ </g>
+</svg>
