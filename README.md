@@ -1,6 +1,6 @@
 ### 📷 Preview do projeto
 
-![App Screenshot](https://raw.githubusercontent.com/1juniorbarros/images/main/saas.png?token=AU5JBPYXVK4TZ3VKOC7AS33BOPCQK)
+![App Screenshot](https://i.imgur.com/J0Gbwql.png)
 
 ### 💻 Sobre o projeto
 
